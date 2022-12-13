@@ -1,4 +1,2 @@
 Hello there, I am Donovan!
 Here is a second line!
-<h1>Hello!</h1> (added a header)
-Let's make this an html file!
